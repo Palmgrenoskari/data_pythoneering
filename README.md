@@ -1,2 +1,2 @@
 # pythoneeringWithData
-A repository used as a work folder for all Python-related tasks, mostly data related.
+* Decided to push my work folder into github. Just me learning Python and it's data-related libraries
