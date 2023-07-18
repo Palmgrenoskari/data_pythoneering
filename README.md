@@ -1,2 +1,2 @@
-# pythoneeringWithData
-* Decided to push my work folder into github. Just me learning Python and it's data-related libraries
+# data_pythoneering
+* Decided to push my learning work folder into github. Most code is and will be data related
